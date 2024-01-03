@@ -1,8 +1,6 @@
-package org.dsa.l1.practice;
-
 import java.util.Scanner;
 
-public class C_anyBaseToDecimal {
+public class C_AnyBaseToDecimal {
 
     public static void main(String[] args) {
         Scanner scn = new Scanner(System.in);
