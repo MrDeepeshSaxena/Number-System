@@ -8,7 +8,9 @@ public class A_GetDigitsFrequency {
         System.out.println("Enter the Number");
         //Taking the number as input
         int num = scn.nextInt();
+
         System.out.println("Enter the Digit");
+        //Taking the digit as input, for which we have to calculate its occurance frequency in num
         int digit = scn.nextInt();
 
         int frequency = getDigitsFrequency(num, digit);
