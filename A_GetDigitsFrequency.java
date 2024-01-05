@@ -6,6 +6,7 @@ public class A_GetDigitsFrequency {
         Scanner scn = new Scanner(System.in);
 
         System.out.println("Enter the Number");
+        //Taking the number as input
         int num = scn.nextInt();
         System.out.println("Enter the Digit");
         int digit = scn.nextInt();
